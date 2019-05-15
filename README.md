@@ -1,4 +1,4 @@
-# Arkanoid-XINU
+# Arkanoid-XINU version 1.0 bug Not Fixed
 Team Members:
  <br>Marshood Ayoub  ([Marshood](https://github.com/Marshood).) <br>
 Firas Gadban  <br>
